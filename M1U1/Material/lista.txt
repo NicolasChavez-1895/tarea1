@@ -1,3 +1,5 @@
 papas
 manzanas
 cebollas
+peras
+olmos
